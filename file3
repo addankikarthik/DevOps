@@ -1,5 +1,8 @@
 Hi this is file3 getting created on the server repo
+<<<<<<< HEAD
  post pull i am adding the data on the local repo
  finding the changes which will get effected 
  this file is being edited on the local repo
  i need to validate it for the demo
+=======
+>>>>>>> parent of 8250f39... post doing the changes at the local repo
